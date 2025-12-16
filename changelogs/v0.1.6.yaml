@@ -1,2 +1,4 @@
 other:
 - Bump golang.org/x/oauth2 to address CVE-2025-22868.
+- Bump golang.org/x/net to v0.48.0 to address [CVE-2025-22870](https://nvd.nist.gov/vuln/detail/cve-2025-22870) and [CVE-2025-22872](https://nvd.nist.gov/vuln/detail/cve-2025-22872).
+- Bump Go to 1.25.5.
